@@ -12,8 +12,6 @@ const someOtherPlaintextPassword = 'pass123';
 
 //START_ASYNC -do not remove notes, place code between correct pair of notes.
 
-//
-//
 
 //END_ASYNC
 
